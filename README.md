@@ -1,1 +1,1 @@
-# task-01
+In this task, I explored the dataset by examining its structure, data types, and summary statistics to understand its composition and detect missing values. I categorized the features into different types and analyzed categorical variables for uniqueness and frequency, then separated the target variable to prepare the data for machine learning.
